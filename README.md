@@ -14,7 +14,7 @@ Execute the command below to install all required dependencies:
 
 ```bash
 npm i
-```
+``` 
 
 #### b) Environment Configuration
 
